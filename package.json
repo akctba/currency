@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/akctba/currency#readme",
   "dependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^5.0.0"
   }
 }
